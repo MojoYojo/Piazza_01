@@ -4,3 +4,9 @@ C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Application
 C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\ConsoleApplication1\Piazza_01\Piazza_01\obj\Debug\Piazza_01.csprojResolveAssemblyReference.cache
 C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\ConsoleApplication1\Piazza_01\Piazza_01\obj\Debug\Piazza_01.exe
 C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\ConsoleApplication1\Piazza_01\Piazza_01\obj\Debug\Piazza_01.pdb
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\bin\Debug\Piazza_01.exe.config
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\obj\Debug\Piazza_01.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\obj\Debug\Piazza_01.pdb
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\obj\Debug\Piazza_01.csprojResolveAssemblyReference.cache
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\bin\Debug\Piazza_01.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_01\Piazza_01\bin\Debug\Piazza_01.pdb
